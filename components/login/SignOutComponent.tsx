@@ -18,6 +18,7 @@ const SignOutPage = () => {
   };
 
   const buttonVariants = {
+    
     initial: { scale: 1, rotateX: 0 },
     hover: { scale: 1.05, rotateX: 10 },
     tap: { scale: 0.95, rotateX: -10 }
